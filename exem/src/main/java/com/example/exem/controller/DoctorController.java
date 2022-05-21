@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 // qale ishla
+// nma gap
 @RestController
 @RequestMapping("/doctor")
 public class DoctorController {
