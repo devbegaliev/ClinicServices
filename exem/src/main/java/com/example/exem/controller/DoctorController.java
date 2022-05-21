@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 // qale ishla
+//dgfksjdf jadakj
 @RestController
 @RequestMapping("/doctor")
 public class DoctorController {
